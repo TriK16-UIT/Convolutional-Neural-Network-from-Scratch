@@ -1,1 +1,0 @@
-tri3.train(x_train, y_train, 10, Adam(0.001, 0.9, 0.999, 1e-8))
